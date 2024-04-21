@@ -3,6 +3,7 @@
 1. Changing the README on the ***origin/main*** *(master)* branch
 2. Changing the README on the ***feature/additional-content*** branch
 3. Fixing the README on the ***hotfix/typo-fix*** branch
+4. Merging ***hotfix/typo-fix*** and ***feature/additional-content*** branches
 
 ### P.S.
 

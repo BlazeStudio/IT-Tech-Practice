@@ -1,3 +1,9 @@
+## Changes
+
+1. Changing the README on the ***origin/main*** *(master)* branch
+2. Changing the README on the ***feature/additional-content*** branch
+3. Fixing the README on the ***hotfix/typo-fix*** branch
+
 ### P.S.
 
 Cloned the repository using a long command via cmd - **the day is good**. Cloned the repository via a button in Github Desktop - **the day is ruined**

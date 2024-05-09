@@ -19,5 +19,3 @@ if random.randint(0, 6) == 1:
 ```
 
 ### P.S. 2
-
-Help

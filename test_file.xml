@@ -1,0 +1,20 @@
+<list>
+<org.example.Firearms>
+  <ser>ABC123</ser>
+  <type>Rifle</type>
+  <name>AR-10</name>
+  <range>500</range>
+  <magazine>30</magazine>
+  <weight>3.5</weight>
+  <rate>700</rate>
+</org.example.Firearms>
+<org.example.Firearms>
+  <ser>DEF456</ser>
+  <type>Handgun</type>
+  <name>Glock 19</name>
+  <range>50</range>
+  <magazine>15</magazine>
+  <weight>0.8</weight>
+  <rate>1200</rate>
+</org.example.Firearms>
+</list>
